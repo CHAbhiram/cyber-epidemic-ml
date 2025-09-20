@@ -1,3 +1,6 @@
+---
+
+```markdown
 # Cyber Epidemic ML
 
 A Flask web application that applies **Machine Learning models** to defend against epidemic-style cybersecurity threats such as **XSS attacks, SQL Injection, and Malicious URLs**.
@@ -107,25 +110,26 @@ Open this link in your browser.
 
 ## Screenshots / Demo
 
+👉 Replace these placeholders with your actual screenshots or GIF demos.
+
 ### Homepage
 
-![Homepage Screenshot](<img width="1877" height="970" alt="Screenshot 2025-09-20 212619" src="https://github.com/user-attachments/assets/1cafd3b1-572f-4974-8042-2faaf11a245a" />
-)
+<img width="1877" height="970" alt="Screenshot 2025-09-20 212619" src="https://github.com/user-attachments/assets/ac8f90b9-f48b-4eb0-83c6-e72a6f294890" />
+
 
 ### XSS Detection Module
 
-![XSS Detection Screenshot](<img width="1875" height="971" alt="Screenshot 2025-09-20 212631" src="https://github.com/user-attachments/assets/823362a9-492f-45cd-ae07-1b8d9eb3b7da" />
-)
+<img width="1875" height="971" alt="Screenshot 2025-09-20 212631" src="https://github.com/user-attachments/assets/d8e6c5ad-dfad-474f-8fb0-2417c028450e" />
+
 
 ### SQL Injection Detection
 
-![SQL Injection Screenshot](<img width="1880" height="973" alt="Screenshot 2025-09-20 212641" src="https://github.com/user-attachments/assets/d1233d77-724d-4e81-aa75-356ad149c2bc" />
-)
+<img width="1880" height="973" alt="Screenshot 2025-09-20 212641" src="https://github.com/user-attachments/assets/95510572-538a-4714-bc0f-06afdf08eecd" />
+
 
 ### URL Threat Detection
 
-![URL Detection Screenshot](<img width="1874" height="967" alt="Screenshot 2025-09-20 212659" src="https://github.com/user-attachments/assets/7a91f349-b501-41af-bc00-d2838fc2a1c1" />
-)
+<img width="1874" height="967" alt="Screenshot 2025-09-20 212659" src="https://github.com/user-attachments/assets/55b118a3-26bb-4050-a21e-b1a1d7cf9e5b" />
 
 
 ---
@@ -144,27 +148,13 @@ Open this link in your browser.
 
 ## License
 
-MIT License
+This project is licensed under the **MIT License**.
 
-Copyright (c) 2025 Chada Abhiram Sharma
+```
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
 
 
+
+Do you want me to also **design a banner image (cover photo)** for your repo README (something like *“Cyber Epidemic ML” with a cyber-security theme*)?
 ```
