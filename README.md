@@ -1,6 +1,3 @@
-Perfect 👍
-Here’s an updated **README.md** with **screenshot/demo placeholders** so your GitHub repo looks polished and professional.
-
 ---
 
 ```markdown
@@ -113,29 +110,26 @@ Open this link in your browser.
 
 ## Screenshots / Demo
 
-👉 Replace these placeholders with your actual screenshots or GIF demos.
-
 ### Homepage
 
-![Homepage Screenshot](static/screenshots/homepage.png)
+![Homepage Screenshot](<img width="1877" height="970" alt="Screenshot 2025-09-20 212619" src="https://github.com/user-attachments/assets/1cafd3b1-572f-4974-8042-2faaf11a245a" />
+)
 
 ### XSS Detection Module
 
-![XSS Detection Screenshot](static/screenshots/xss_detection.png)
+![XSS Detection Screenshot](<img width="1875" height="971" alt="Screenshot 2025-09-20 212631" src="https://github.com/user-attachments/assets/823362a9-492f-45cd-ae07-1b8d9eb3b7da" />
+)
 
 ### SQL Injection Detection
 
-![SQL Injection Screenshot](static/screenshots/sql_injection.png)
+![SQL Injection Screenshot](<img width="1880" height="973" alt="Screenshot 2025-09-20 212641" src="https://github.com/user-attachments/assets/d1233d77-724d-4e81-aa75-356ad149c2bc" />
+)
 
 ### URL Threat Detection
 
-![URL Detection Screenshot](static/screenshots/url_detection.png)
+![URL Detection Screenshot](<img width="1874" height="967" alt="Screenshot 2025-09-20 212659" src="https://github.com/user-attachments/assets/7a91f349-b501-41af-bc00-d2838fc2a1c1" />
+)
 
-### Demo GIF
-
-![Demo GIF](static/screenshots/demo.gif)
-
-*(Place your screenshots in `static/screenshots/` and update paths above.)*
 
 ---
 
@@ -153,6 +147,27 @@ Open this link in your browser.
 
 ## License
 
-This project is licensed under the **MIT License**.
+MIT License
+
+Copyright (c) 2025 Chada Abhiram Sharma
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 ```
