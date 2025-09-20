@@ -169,8 +169,3 @@ SOFTWARE..
 ```
 
 ---
-
-
-
-Do you want me to also **design a banner image (cover photo)** for your repo README (something like *“Cyber Epidemic ML” with a cyber-security theme*)?
-```
