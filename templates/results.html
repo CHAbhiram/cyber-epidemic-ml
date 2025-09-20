@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scan Results</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+
+
+<body>
+    
+    <div class="container">
+        <h1>Scan Results</h1>
+        <p><strong>Scanned URL:</strong> {{ results.url }}</p>
+
+        <h2>Detected Vulnerabilities:</h2>
+        {% if results.vulnerabilities %}
+        <ul>
+            {% for vulnerability in results.vulnerabilities %}
+            <li>{{ vulnerability }}</li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p>No vulnerabilities detected. The website appears secure.</p>
+        {% endif %}
+
+        <h2>Retrieved Headers:</h2>
+        {% if results.headers %}
+        <table>
+            <thead>
+                <tr>
+                    <th>Header</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for key, value in results.headers.items() %}
+                <tr>
+                    <td>{{ key }}</td>
+                    <td>{{ value }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+        <p>No headers were retrieved from the scanned URL.</p>
+        {% endif %}
+
+        <h2>XSS Vulnerability Forms:</h2>
+        {% if results.xss_forms %}
+        <ul>
+            {% for form in results.xss_forms %}
+            <li>{{ form }}</li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p>No  vulnerabilities were detected in forms on this site.</p>
+        {% endif %}
+
+        <a href="/" class="button">Scan Another URL</a>
+    </div>
+</body>
+</html>
