@@ -1,7 +1,7 @@
 ```markdown
 # Cyber Epidemic ML
 
-A Flask web application that applies *Machine Learning models* to defend against epidemic-style cybersecurity threats such as *XSS attacks, SQL Injection, and Malicious URLs*.
+A Flask web application that applies Machine Learning models to defend against epidemic-style cybersecurity threats such as **XSS attacks, SQL Injection, and Malicious URLs**.
 
 ---
 
