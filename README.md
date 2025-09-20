@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Cyber Epidemic ML
 
@@ -109,8 +107,6 @@ Open this link in your browser.
 ---
 
 ## Screenshots / Demo
-
-👉 Replace these placeholders with your actual screenshots or GIF demos.
 
 ### Homepage
 
